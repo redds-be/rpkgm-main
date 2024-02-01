@@ -1,0 +1,16 @@
+{
+    "packages": [
+        {
+            "name": "neofetch",
+            "description": "A command-line system information tool written in bash 3.2+",
+            "version": "7.1.0",
+            "buildFilesDir": "var/rpkgm/main/neofetch"
+        },
+        {
+            "name": "pfetch",
+            "description": "A pretty system information tool written in POSIX sh",
+            "version": "0.6.0",
+            "buildFilesDir": "var/rpkgm/main/pfetch"
+        }
+    ]
+}
