@@ -4,13 +4,19 @@
             "name": "neofetch",
             "description": "A command-line system information tool written in bash 3.2+",
             "version": "7.1.0",
-            "buildFilesDir": "var/rpkgm/main/neofetch"
+            "buildFilesDir": "var/rpkgm/main/neofetch",
+            "archiveUrl": "https://github.com/dylanaraps/neofetch/archive/refs/tags/7.1.0.tar.gz",
+            "sha512": "fe1013fb54585c15ba556054478a2c8c503120387e81bd16bfdfbb6f3a188ed4124585540abf43da9209cbbe0d7fb90d50914cd6620137d00f013cfb6954a042",
+            "dependencies": "bash"
         },
         {
             "name": "pfetch",
             "description": "A pretty system information tool written in POSIX sh",
             "version": "0.6.0",
-            "buildFilesDir": "var/rpkgm/main/pfetch"
+            "buildFilesDir": "var/rpkgm/main/pfetch",
+            "archiveUrl": "https://github.com/dylanaraps/pfetch/archive/refs/tags/0.6.0.tar.gz",
+            "sha512": "868901bec6ae8999ad40fcb94bdf804969a3dfd724dc554d62f59982daf48d359094764b2e45d4816983d4f46e38de30f0bcb646ecd95bf3263ba128b87a1ddf",
+            "dependencies": "bash"
         }
     ]
 }
